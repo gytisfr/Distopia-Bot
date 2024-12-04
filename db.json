@@ -1,0 +1,44 @@
+{
+    "players": [],
+    "requests": {},
+    "links": {
+        "Gytis5089": "301014178703998987",
+        "ItzFurylol": "669627516062793729",
+        "VRZ scorpio": "669232007871594506",
+        "Erzy Fydro": "701035026841600024",
+        "RussClaire83": "790638916642013184"
+    },
+    "permits": [
+        "Gytis5089",
+        "RussClaire83"
+    ],
+    "records": {},
+    "items": {
+        "Weapons Permit": {
+            "price": 500
+        },
+        "Colt": {
+            "price": 249,
+            "id": "bow"
+        },
+        "Illegal Colt": {
+            "price": 379,
+            "id": "bow"
+        },
+        "K98": {
+            "price": 629,
+            "id": "crossbow"
+        },
+        "Tear Gas": {
+            "price": 389,
+            "id": "lingering_potion 1 25"
+        }
+    },
+    "economy": {
+        "301014178703998987": 8035,
+        "669627516062793729": 1512,
+        "669232007871594506": 1512,
+        "701035026841600024": 1512,
+        "790638916642013184": 432
+    }
+}
